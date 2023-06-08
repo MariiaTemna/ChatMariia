@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971449754166",
+    "project_id": "chatmariia",
+    "storage_bucket": "chatmariia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971449754166:android:f0ed58fc789de386e26e97",
+        "android_client_info": {
+          "package_name": "com.example.chatmariia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971449754166-rujkspe895sqethnqf1b7plnt617lvgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatmariia",
+            "certificate_hash": "dbda1251a0782f2112da2470ce8c9d5a998fc05a"
+          }
+        },
+        {
+          "client_id": "971449754166-9690mfotl99gpnvo1hk9nmc9admdtqml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0i23RgNQsUsqqU19JzIF_SfFw81qvdhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971449754166-8c459mr16dsgnjj91ja6ali3a6ekueki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
